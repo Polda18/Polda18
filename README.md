@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Polda18
+- 👋 Hi, I’m @Polda18, also known as CZghost.
 - 👀 I’m interested in programming, games level design, photography, Geocaching, YouTube and technology.
 - 🌱 I’m currently learning mobile technology on technical university of Ostrava.
 - 💞️ I’m looking to collaborate on interesting projects in the field of gaming (new games, game modifications, etc.), but I also want to maintain my own personal projects.
