@@ -2,3 +2,4 @@ Number   Resource pack identifier
 ------   --------------------------
     22   Poker
     35   (reserved for private use)
+   101   (reserved for future use)
