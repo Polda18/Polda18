@@ -1,0 +1,4 @@
+Number   Resource pack identifier
+------   ------------------------
+    22   Poker
+    35   Private Server Pack
